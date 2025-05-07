@@ -2,7 +2,7 @@
 ## HNU 6055
 **Je cherche à explorer l'utilisation des données ouvertes dans le domaine de l'aménagement urbain et de la bibliothéconomie.**
 
-#Licence
+## Licence
 
 Cette œuvre est mise à disposition selon les termes de la
 [licence Creative Commons Attribution 4.0 International][cc-by].
